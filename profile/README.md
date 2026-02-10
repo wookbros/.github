@@ -4,10 +4,8 @@
 
 We're two brothers who share a passion for building software. This organization is our shared workspace where we collaborate on projects, explore new ideas, and grow as developers — together.
 
-| | GitHub | Blog |
-|---|---|---|
-| 🧑‍💻 | [@binaryloader](https://github.com/binaryloader) | [blog.binaryloader.io/en](http://blog.binaryloader.io/en) |
-| 👨‍💻 | [@rere950303](https://github.com/rere950303) | [rere950303.github.io](https://rere950303.github.io) |
+- 🧑‍💻 [@binaryloader](https://github.com/binaryloader) · [blog.binaryloader.io/en](http://blog.binaryloader.io/en)
+- 👨‍💻 [@rere950303](https://github.com/rere950303) · [rere950303.github.io](https://rere950303.github.io)
 
 ## 🛠 What We Do
 
