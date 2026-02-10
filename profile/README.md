@@ -1,4 +1,4 @@
-# 👨‍💻 WOOK BROTHERS
+# WOOK BROTHERS
 
 ## 🙋‍♂️ Who We Are
 
