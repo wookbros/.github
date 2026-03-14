@@ -1,4 +1,4 @@
-# WOOK BROTHERS
+# WOOKBROS
 
 ## 🙋‍♂️ Who We Are
 
@@ -15,7 +15,7 @@ We're two brothers who share a passion for building software. This organization 
 - **Experiments** — Trying out new technologies, frameworks, and tools just for fun.
 - **Open Source** — Sharing what we build with the community whenever we can.
 
-## 💡 Why "WOOK BROTHERS"
+## 💡 Why "WOOKBROS"
 
 Because everything's better when you build it with family. We believe the best code comes from trust, honest feedback, and a little sibling rivalry.
 
