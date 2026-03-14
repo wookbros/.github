@@ -21,4 +21,4 @@ Because everything's better when you build it with family. We believe the best c
 
 ## 📬 Get In Touch
 
-Have questions, bug reports, or suggestions? Open an issue on our [support](https://github.com/wookbros/support/issues) repository. We're always happy to connect.
+Have questions, bug reports, or suggestions? Open an issue on our [support](https://github.com/wookbros/support/issues) repository or email us at wookbros.official@gmail.com.
